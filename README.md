@@ -34,3 +34,11 @@ HOG (Histogram of Oriented Gradients) features are extracted from each image and
 - OpenCV
 - NumPy / Matplotlib
 - Google Colab / Google Drive
+
+---
+
+## References
+
+[1] Fernández Millán. *OpenCV4 with Python.* 
+
+[2] Gonzalez, R. C., & Woods, R. E. (2017). *Digital Image Processing.*
